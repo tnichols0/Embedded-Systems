@@ -10,6 +10,7 @@ int main()
     redLED = 1;
     yellowLED = 1;
     greenLED = 1;
+    wait_us(1000000);
     while (true) {
 
         //Red Light
